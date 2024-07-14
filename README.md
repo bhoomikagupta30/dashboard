@@ -78,7 +78,13 @@ This page allows users to customize their experience with options to switch betw
 
 Admin can also access notification, cart, chat, and user profile viewing options (although these features are currently non-functional).
 
+# Technologies Used:
 
+1. HTML
+2. CSS (including Tailwind CSS for styling)
+3. JavaScript (ES6+)
+4. React
+5. Syncfusion Components
 
 
 
