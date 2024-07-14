@@ -71,6 +71,13 @@ This page features a detailed chart displaying the revenue breakdown from Januar
 
 ![stacked](https://github.com/user-attachments/assets/b3c90cb5-f131-4700-a651-4ef34f141fcb)
 
+# 15. Settings
+This page allows users to customize their experience with options to switch between light and dark mode, and to change theme colors according to their preferences. This page enhances user accessibility and personalization, ensuring a comfortable and visually appealing interface tailored to individual preferences.
+
+![settings](https://github.com/user-attachments/assets/465e2bb2-a2bd-4632-a37b-89f70273b498)
+
+Admin can also access notification, cart, chat, and user profile viewing options (although these features are currently non-functional).
+
 
 
 
